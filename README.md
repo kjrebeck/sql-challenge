@@ -17,31 +17,10 @@ This project involves analyzing historical employee data from the 1980s and 1990
 - `.sql` files for table schemas and queries
 - screen shots of queries and results
 
-## Repository Structure:
-sql-challenge/
-├── EmployeeSQL/
-│   ├── data/
-│   │   ├── departments.csv
-│   │   ├── dept_emp.csv
-│   │   ├── dept_manager.csv
-│   │   ├── employees.csv
-│   │   ├── salaries.csv
-│   │   └── titles.csv
-│   ├── ERD.png
-│   ├── ERD_DOC.pdf
-│   ├── schema_kjr.txt
-│   ├── schema_kjr.sql
-│   ├── sql_queries_kjr_images.pdf
-│   └── sql_queries_kjr.sql
-├── README.md
-└── LICENSE
-
 ## Dependencies:
+- QuickDBD
 - PostgreSQL
 - pgAdmin
-
-## Author:
-- [kjrebeck](https://github.com/kjrebeck)
 
 ## License:
  GNU GENERAL PUBLIC LICENSE
