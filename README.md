@@ -13,25 +13,28 @@ This project involves analyzing historical employee data from the 1980s and 1990
 
 ## Deliverables:
 - ERD image file
+- ERD Documentation
 - `.sql` files for table schemas and queries
 - screen shots of queries and results
 
 ## Repository Structure:
-EmployeeSQL/
-├── data/
-│ ├── departments.csv
-│ ├── dept_emp.csv
-│ ├── dept_manager.csv
-│ ├── employees.csv
-│ ├── salaries.csv
-│ └── titles.csv
-├── images/
-│ └── erd.png
-├── queries/
-│ └── queries.sql
-├── schemas/
-│ └── schemas.sql
-└── README.md
+sql-challenge/
+├── EmployeeSQL/
+│   ├── data/
+│   │   ├── departments.csv
+│   │   ├── dept_emp.csv
+│   │   ├── dept_manager.csv
+│   │   ├── employees.csv
+│   │   ├── salaries.csv
+│   │   └── titles.csv
+│   ├── ERD.png
+│   ├── ERD_DOC.pdf
+│   ├── schema_kjr.txt
+│   ├── schema_kjr.sql
+│   ├── sql_queries_kjr_images.pdf
+│   └── sql_queries_kjr.sql
+├── README.md
+└── LICENSE
 
 ## Dependencies:
 - PostgreSQL
